@@ -10,4 +10,4 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
   _this is a work in progress (aren't we all?)_
 
 
-[test gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hpb3NnbDJweXdnbXhnNTg0NGd4NmY2NGdwa3FpMTN1NmxkcjMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjBbphQn1TJ4zQJW9P/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hpb3NnbDJweXdnbXhnNTg0NGd4NmY2NGdwa3FpMTN1NmxkcjMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjBbphQn1TJ4zQJW9P/giphy-downsized-large.gif)
