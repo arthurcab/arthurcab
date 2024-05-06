@@ -9,4 +9,8 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
 
   _this is a work in progress (aren't we all?)_
 
-  [Testing](https://photos.app.goo.gl/nmGdv4BMZRvugNtc7)
+# cool-beans
+
+https://example.com/video.mp4
+
+Press play to see the video.
