@@ -9,5 +9,5 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
 
   _this is a work in progress (aren't we all?)_
 
+![](https://drive.google.com/file/d/1Gh1pIB3EZ4P3V4PaF2UDdzrQUIlB0fQJ/view?usp=sharing)
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hpb3NnbDJweXdnbXhnNTg0NGd4NmY2NGdwa3FpMTN1NmxkcjMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjBbphQn1TJ4zQJW9P/giphy-downsized-large.gif)
