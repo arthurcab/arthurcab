@@ -11,6 +11,6 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
 
 # cool-beans
 
-https://example.com/video.mp4
+https://photos.google.com/photo/AF1QipM0ferk65ISpH40P5KLtJUHfg5mjIC9R4SCD1ca
 
 Press play to see the video.
