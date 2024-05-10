@@ -8,11 +8,12 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
 - 📩 Hit me up on [LinkedIn](https://www.linkedin.com/in/arthur-cab/)!
 
 
+_This is me setting up a triangle from the mount!_
 
 ![](https://github.com/arthurcab/arthurcab/blob/main/triangulo%20montada.gif)
 
-_This is me setting up a triangle from the mount!_
 
+---
 
 _This README is a work in progress (but aren't we all)?_
 
