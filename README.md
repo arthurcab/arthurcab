@@ -14,3 +14,6 @@ I'm a Data Analyst with 5+ years of experience in Marketing, Growth, Retention a
 _This is me setting up a triangle from the mount!_
 
 
+_This README is a work in progress (but aren't we all)?_
+
+
