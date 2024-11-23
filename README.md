@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur! 
 
-I'm a Data Analyst with 6+ years of experience in Marketing, Growth, Retention and CRM. 
+I'm an Analytics Engineer with 6+ years of experience in Marketing, Growth, Retention and CRM. 
 
 - 👨‍💻 I'm an Analytics Engineer at [Wonderschool](www.wonderschool.com)
 - I also use this account [@arthrcabrl](https://github.com/arthrcabrl)
